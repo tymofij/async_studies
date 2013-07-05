@@ -1,5 +1,4 @@
-Python Async Studies
-=============
+**Python Async Studies**
 
 Tought by Andrew Svetlov, see http://learnpython.in.ua/flows#async
 
