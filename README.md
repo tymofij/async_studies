@@ -1,7 +1,7 @@
 Python Async Studies
 =============
 
-Tought by Andrey Svetlov, see http://learnpython.in.ua/flows#async
+Tought by Andrew Svetlov, see http://learnpython.in.ua/flows#async
 
 Summer 2013
 
